@@ -1,0 +1,7 @@
+*.psd
+.idea
+/components/cfg.json
+/resources/miao-res-plus/
+/components/setting.json
+/config.js
+*.css.map
